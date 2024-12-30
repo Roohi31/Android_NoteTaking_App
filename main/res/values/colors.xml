@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="top_actionbar_color">#006666</color>
+    <color name="fab_color">#004c4c</color>
+    <color name="hintColor">#66b2b2</color>
+    <color name="bold_hintColor">#008080</color>
+</resources>
