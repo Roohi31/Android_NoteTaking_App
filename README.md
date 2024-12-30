@@ -18,4 +18,6 @@ A simple Android app to take and store notes, using **Room Database** for local 
 - **RecyclerView** - To display notes in a list format.
 - **Coroutines** - For background thread handling with Room Database.
 - **MVVM** - Model-View-ViewModel architecture.
-![Screenshot 2024-12-30 200127](https://github.com/user-attachments/assets/5aa616d2-f822-4898-aadc-b023ed45baae)
+
+![Screenshot 2024-12-30 200127](https://github.com/user-attachments/assets/e86ffd42-eea6-468e-b11e-04c4ba787689)
+
